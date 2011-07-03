@@ -1,0 +1,7 @@
+A Line Following Robot
+
+The arduino sketch is located in <sketch file info here>.
+
+For a schematic of the wiring, see <schematic file>.
+
+This robot will try to follow a black line drawn on a light colored background. The black line should be fairly thick (Think black electrical tape, not a pen) to work properly. 
